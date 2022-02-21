@@ -1,0 +1,4 @@
+# dados_eleitorais_brasileiros
+
+Neste repositório, faço algumas análises dos dados eleitorais brasileiros em nível de candidat@, focando em aspectos como gênero e nível de instrução.
+As análises mostram três principais conclusões: i. o percentual de mulheres candidatas às eleições tem crescido ao longo dos anos, contudo, ainda é muito pequena: em 2020, o percentual de mulheres candidatas não chegou a 35% do total de candidaturas; ii. há bastante heterogeneidade no que se refere à participação das mulheres na vida política entre os municípios brasileiros: em média, há maior participação nos municípios das regiões Centor-Oeste e Norte; e iii. nas eleições municipais, nota-se que o maior percentual de candidat@s possui, no máximo, ensino médio completo; nas eleições presidenciais, por sua vez, os candidatos possuem ensino superior completo.
